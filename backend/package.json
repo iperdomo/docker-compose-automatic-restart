@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Iván Perdomo",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "express": "4.18.2",
+    "express-json-validator-middleware": "3.0.1"
+  }
+}
